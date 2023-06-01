@@ -1,0 +1,19 @@
+Learned Through Tutorial:
+-Installing and creating a React Native Project
+-Running project with Expo Go app
+-Creating core components like View and Text
+-Styling using StyleSheet object
+-Using flexbox to place objects
+-Handling user events with useStates and functions
+-Splitting up App.js code into components
+-Using props to communicate between components
+-Working with modals
+-Displaying images
+-Changing styling to make app look nice
+
+Extensions Following Tutorial:
+-Decide new consistent color palette for better UX
+-Create a separate Color.js utility for better coding practice
+-Implement an Icon button that toggles light/dark mode which have different color palettes
+-Include validation to make sure blank text goal cannot be added
+-Changed image in modal to an icon so its color can switch to match light/dark mode
