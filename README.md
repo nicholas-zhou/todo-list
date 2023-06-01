@@ -7,4 +7,4 @@ Created using Javascript and React Native to learn mobile development.
 - Switching between light and dark mode
 
 ## Learn More
-Read the about.txt file to see what was learned through tutorial and which features were extensions after completing the tutorial.
+Read the about.txt file to see what was learned through [tutorial](https://www.youtube.com/watch?v=VozPNrt-LfE) and which features were extensions after completing the tutorial.
